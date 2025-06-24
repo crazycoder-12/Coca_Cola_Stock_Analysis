@@ -28,4 +28,6 @@ XGBoost (Extreme Gradient Boosting)
 Ensemble Methods
 
 # 📂 Dataset Source
-The historical stock price data used for this project was sourced from Kaggle.
+The historical stock price data used for this project was sourced from Kaggle
+
+https://www.kaggle.com/datasets/meetnagadia/coco-cola-stock-data-19622021/data
